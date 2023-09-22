@@ -1,0 +1,14 @@
+.emptyLetterBox {
+  width: 10%;
+  height: 0;
+  background-color: #ddd;
+  border: 3px solid #222;
+  box-shadow: 0 0 0 5px hsl(0, 0%, 80%), 0 0 0 10px hsl(0, 0%, 90%);
+  padding-top: 4.5rem;
+}
+
+.active {
+  background-color: #eaeaea;
+  border: 3px solid #2f2;
+  box-shadow: 0 0 0 5px hsl(0, 0%, 80%), 0 0 0 10px hsl(0, 0%, 90%);
+}

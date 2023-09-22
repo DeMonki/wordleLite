@@ -1,0 +1,16 @@
+.letter-box {
+  background-color: #bfbfbf;
+  border: 3px solid #222;
+  box-shadow: 0 0 0 5px hsl(0, 0%, 80%), 0 0 0 10px hsl(0, 0%, 90%);
+  color: rgb(117, 11, 28);
+  font-size: 3rem;
+  width: 10%;
+}
+
+.letter-box--yellow {
+  background-color: #f2b705;
+}
+
+.letter-box--green {
+  background-color: #0e7a0d;
+}

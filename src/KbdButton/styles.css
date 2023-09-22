@@ -1,0 +1,9 @@
+.kbdButton {
+  border: 3px solid #000000;
+  border-style: groove;
+}
+
+.disabled {
+  background-color: #cccccc;
+  text-decoration: line-through;
+}
